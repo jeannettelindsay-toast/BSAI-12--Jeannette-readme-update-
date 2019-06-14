@@ -1,2 +1,3 @@
 # BSAI-12--Jeannette-readme-update-
-Jira BSAI-12
+Create descriptive commit message/descriptions
+Don't commit directly to Master
